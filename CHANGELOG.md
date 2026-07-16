@@ -3,6 +3,12 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.1](https://github.com/omnixys/context-java/compare/v1.0.0...v1.0.1) (2026-07-16)
+
+### Deps
+
+* **Deps:** update dependencies ([](https://github.com/omnixys/context-java/commit/f718398edbb562f5b14414962c39c8c7d5208fe1))
+
 ## 1.0.0 (2026-06-27)
 
 ### CD/CI
