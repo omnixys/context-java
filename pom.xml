@@ -23,6 +23,8 @@
     <properties>
         <java.version>26</java.version>
         <maven.compiler.release>26</maven.compiler.release>
+
+        <omnixys.commons.version>1.0.1<commons>
     </properties>
 
 
@@ -44,7 +46,7 @@
         <dependency>
             <groupId>com.omnixys</groupId>
             <artifactId>commons</artifactId>
-            <version>1.0.0</version>
+            <version>${omnixys.commons.version}</version>
         </dependency>
 
         <dependency>
