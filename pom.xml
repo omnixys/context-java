@@ -24,13 +24,13 @@
         <java.version>26</java.version>
         <maven.compiler.release>26</maven.compiler.release>
 
-        <omnixys.commons.version>1.0.1<commons>
+        <omnixys.commons.version>1.0.4</omnixys.commons.version>
     </properties>
 
 
     <distributionManagement>
         <repository>
-            <id>github-commons</id>
+            <id>github-context</id>
             <url>https://maven.pkg.github.com/omnixys/context-java</url>
         </repository>
     </distributionManagement>
