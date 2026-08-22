@@ -3,6 +3,16 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.3](https://github.com/omnixys/context-java/compare/v1.0.2...v1.0.3) (2026-08-22)
+
+### Agent
+
+* **Agent:** add repository development instructions ([](https://github.com/omnixys/context-java/commit/1b70280bb481c38989d3676c05f6752bb259ffc3))
+
+### Dir
+
+* **Dir:** remove target dir ([](https://github.com/omnixys/context-java/commit/c99c3f571869b8672057085d286cb16c582935b3))
+
 ## [1.0.2](https://github.com/omnixys/context-java/compare/v1.0.1...v1.0.2) (2026-07-23)
 
 ### Deps
