@@ -1,1 +1,15 @@
+com/omnixys/context/resolver/DefaultClientMetadataResolverTest.class
 com/omnixys/context/ContextAccessorTest.class
+com/omnixys/context/resolver/ContextArgumentResolverTest$SampleController.class
+com/omnixys/context/ContextSnapshotTest.class
+com/omnixys/context/PrincipalContextTest.class
+com/omnixys/context/resolver/ContextArgumentResolverTest.class
+com/omnixys/context/async/SnapshotContextAwareCallableTest.class
+com/omnixys/context/async/ContextAwareTaskDecoratorTest.class
+com/omnixys/context/TenantContextTest.class
+com/omnixys/context/filter/ContextFilterTest.class
+com/omnixys/context/filter/CorrelationIdFilterTest.class
+com/omnixys/context/resolver/HeaderTenantResolverTest.class
+com/omnixys/context/async/SnapshotContextAwareSupplierTest.class
+com/omnixys/context/ContextFixtures.class
+com/omnixys/context/async/SnapshotContextAwareRunnableTest.class
