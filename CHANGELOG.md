@@ -3,6 +3,27 @@
 All notable changes in this project will be documented in this file.
 
 
+## [1.0.4](https://github.com/omnixys/context-java/compare/v1.0.3...v1.0.4) (2026-09-03)
+
+### Build
+
+* **Build:** fix ci build ([](https://github.com/omnixys/context-java/commit/e441e0c5eddc130aa2db53ba820a49da8f60dc28))
+
+### Ci
+
+* **Ci:** add update release rule for patch releases ([](https://github.com/omnixys/context-java/commit/6e523fe83a7d8427d99a0ca963804bc753799c36))
+* **Ci:** align CI structure with full workflow set, 3-job release, and pinned conventionalcommits ([](https://github.com/omnixys/context-java/commit/08a8b861f950c2e0c17e98f0e78919b6e0067bf6))
+
+### Other
+
+* **Other:** Merge branch 'main' of https://github.com/omnixys/context-java ([](https://github.com/omnixys/context-java/commit/c76e21411b08b0bf04866e45e2f6c81fb5bc13af))
+* **Other:** Merge pull request #1 from omnixys/migration/uuid-v7 ([](https://github.com/omnixys/context-java/commit/7a141cf74ca5c25846679e400e51d75f5253e543)), closes [#1](https://github.com/omnixys/context-java/issues/1)
+* **Other:** Update build.yaml ([](https://github.com/omnixys/context-java/commit/7f0fd3cd36ddef0b373c999d9830c81bb06f268e))
+
+### Runtime
+
+* **Runtime:** align spring boot and build toolchain to local standard ([](https://github.com/omnixys/context-java/commit/c30ddf0929b51f51a7c67d80c17cafb9bfb27492))
+
 ## [1.0.3](https://github.com/omnixys/context-java/compare/v1.0.2...v1.0.3) (2026-08-22)
 
 ### Agent
